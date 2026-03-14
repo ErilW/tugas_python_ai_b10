@@ -1,0 +1,16 @@
+=== RINGKASAN NUMPY ===
+Rata-rata: 14.2
+Median: 13.0
+Standar Deviasi: <function stdev at 0x000001AE0ACDEF80>
+Nilai Minimum: 7
+Nilai Maksimum: 23
+
+=== PANDAS ===
+Jumlah Data: 5
+Nilai Tertinggi: 95
+Nilai Terendah: 20
+
+=== OOP: GRADEBOOK ===
+Average Nilai: 67.0
+Pass Rate: 60.0%
+
